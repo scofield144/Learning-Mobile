@@ -1,0 +1,78 @@
+{
+    "workbench.colorTheme": "Tokyo Light",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.6,
+    "editor.fontLigatures": true,
+    "editor.rulers": [80, 100, 120],
+    "editor.wordWrap": "on",
+    "editor.linkedEditing": true,
+    "editor.renderLineHighlight": "all",
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.horizontal": "visible",
+    "editor.smoothScrolling": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": true,
+    "editor.guides.bracketPairs": true,
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.autoSave": "afterDelay",
+  
+    "workbench.startupEditor": "none",
+    "workbench.editor.labelFormat": "medium",
+    "workbench.editor.wrapTabs": true,
+    "workbench.activityBar.location": "left",
+    "workbench.statusBar.visible": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "fluent-icons",
+  
+    "explorer.compactFolders": true,
+    "window.closeWhenEmpty": true,
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": true,
+  
+    "breadcrumbs.enabled": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.validate.enable": true,
+    "javascript.format.enable": true,
+    "javascript.suggest.autoImports": true,
+  
+    "debug.javascript.debugByLinkOptions": "on",
+    "debug.javascript.defaultRuntimeExecutable": {
+      "pwa-node": "node"
+    },
+  
+    "color-highlight.matchWords": true,
+    "git.openRepositoryInParentFolders": "always",
+    "update.mode": "manual",
+  
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorStyle": "block",
+  
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#f0f0f0",
+      "activityBar.foreground": "#333333",
+      "activityBarBadge.background": "#7aa2f7",
+      "sideBar.background": "#ffffff",
+      "sideBar.foreground": "#333333",
+      "editor.background": "#ffffff",
+      "editor.foreground": "#333333",
+      "statusBar.background": "#f0f0f0",
+      "statusBar.foreground": "#333333"
+    },
+  
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[csharp]": {
+      "editor.defaultFormatter": "ms-dotnettools.csharp"
+    }
+  }
+  
